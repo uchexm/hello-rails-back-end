@@ -119,7 +119,7 @@ rails server
 
 I am always looking for ways to improve my project. If you have any suggestions or ideas, I would love to hear from you.
 
-**Hein Thant**
+**Uchechi Nwaka**
 
 [![Github](https://img.shields.io/badge/GitHub-673AB7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uchexm)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nwakauc/)
