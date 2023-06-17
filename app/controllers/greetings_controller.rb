@@ -1,6 +1,6 @@
 class GreetingsController < ApplicationController
-  def random
-    greeting = Message.order("RANDOM()").first
-    render json: { greeting: greeting.greeting}
+  def random_greeting
+    @random_greeting = Greeting.all.sample
+    render json: { greeting: @random_greeting.greeting }
   end
 end
